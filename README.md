@@ -46,4 +46,13 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
 </div>
 
+##
+<h2>Stats</h2>
+ 
+<div align="center">
+  <img width=390 height=200 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=suthekshan&hide=HTML&langs_count=8&layout=compact&theme=dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />&nbsp;&nbsp&nbsp;&nbsp;
+</div>
+
+##
+
 ###
