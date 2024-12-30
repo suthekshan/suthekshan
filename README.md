@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🌱 Freshman at Amrita Vishwa Vidhyapeetham <br><br>🎯Passionate about Artificial Intelligence<br><br>✨ A true geek at heart, I thrive on exploring the depths of technology<br><br>📚 Always on the lookout for new technologies</p>
+<p align="left">🌱 Sophomore at Amrita Vishwa Vidhyapeetham <br><br>🎯Passionate about Artificial Intelligence<br><br>✨ A true geek at heart, I thrive on exploring the depths of technology<br><br>📚 Always on the lookout for new technologies</p>
 
 ###
 
